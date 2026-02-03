@@ -1,6 +1,2 @@
-name = "cloudflare-imgbed"
-main = "index.js"
-compatibility_date = "2026-02-03"
-
-[vars]
-# 如果你有 Telegram Token 等变量，也可以写在这里，或者在 Cloudflare 后台设置
+# wrangler.toml
+name = 'cf-imgbed'
